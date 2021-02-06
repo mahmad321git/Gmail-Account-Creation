@@ -3,7 +3,7 @@
 ❗️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 - 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:</br>
 Some times it gets difficult for a user to create or find a desired user account with certain prefix number in it. This is because the email account has been already taken. A user has requested you to create an accont with certain prefix in it.
 
-Problem Solution:</br>
+🔪 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 - 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻:</br>
 Script to Automate the process
 
 Libraries, Language & Browser Used:
