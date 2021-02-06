@@ -15,3 +15,5 @@ Script to Automate the process
 - Any Python Editor
 - Python 3.8 installed
 - Configured Chrome driver path
+
+🎲 𝗖𝗹𝗼𝗻𝗶𝗻𝗴 & 𝗦𝗲𝘁𝘂𝗽 𝗚𝘂𝗶𝗱𝗲:
