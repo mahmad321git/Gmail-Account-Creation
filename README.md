@@ -6,10 +6,12 @@ Some times it gets difficult for a user to create or find a desired user account
 🔪 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 - 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻:</br>
 Script to Automate the process
 
-Libraries, Language & Browser Used:
+📐 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀, 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 & 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝘂𝘀𝗲𝗱:
 - Selenium Webdriver
 - Google Chrome driver
 - Python 3.8
 
-Pre-requiste:
+✓ 𝗣𝗿𝗲-𝗥𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗲𝘀:
 - Any Python Editor
+- Python 3.8 installed
+- Configured Chrome driver path
