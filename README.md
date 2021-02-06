@@ -15,4 +15,4 @@ Pre-requiste:
 - Any Python Editor
 
 
-Gmail Account Creation is easy when
+Gmail Account Creation is easy
