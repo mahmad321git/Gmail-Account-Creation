@@ -15,7 +15,11 @@
 - Any Python Editor
 - Python 3.8 installed
 - Configured Chrome driver path
+- git installed
 
 🎲 𝗖𝗹𝗼𝗻𝗶𝗻𝗴 & 𝗦𝗲𝘁𝘂𝗽 𝗚𝘂𝗶𝗱𝗲:
+- Clone Command: git clone https://github.com/mahmad321git/Gmail-Account-Creation.git
 
 ⛏ 𝗠𝗮𝗶𝗻 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗙𝗶𝗹𝗲:
+
+Resultant Report:
