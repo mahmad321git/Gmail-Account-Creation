@@ -14,5 +14,3 @@ Libraries, Language & Browser Used:
 Pre-requiste:
 - Any Python Editor
 
-
-Gmail 
