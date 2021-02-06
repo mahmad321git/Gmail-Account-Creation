@@ -21,5 +21,6 @@
 - Clone Command: git clone https://github.com/mahmad321git/Gmail-Account-Creation.git
 
 ⛏ 𝗠𝗮𝗶𝗻 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗙𝗶𝗹𝗲:
+- gmailgenerator.java
 
 📑 𝗥𝗲𝘀𝘂𝗹𝘁𝗮𝗻𝘁 𝗩𝗶𝗱𝗲𝗼:
